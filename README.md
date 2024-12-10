@@ -11,9 +11,9 @@ Barazer is a citizen engagement platform that fosters transparency, accountabili
 This repository includes all the resources needed to deploy, maintain, and extend Barazer's platform.
 
 ---
-
+<div>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bimvj6Npp4s?si=vecrByspo3_DYaG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</div>
 ## **Features**
 
 ### **Core Functionalities**
