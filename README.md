@@ -1,7 +1,3 @@
-Here’s a comprehensive **README** file for Barazer, tailored for a production-ready environment. It consolidates all relevant information about the platform, its features, and development processes.
-
----
-
 # **Barazer: Empowering Citizen Engagement and Governance Transparency**
 
 [![Watch the video](https://img.youtube.com/vi/bimvj6Npp4s/0.jpg)](https://www.youtube.com/watch?v=bimvj6Npp4s)
