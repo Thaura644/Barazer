@@ -4,6 +4,10 @@ Here’s a comprehensive **README** file for Barazer, tailored for a production-
 
 # **Barazer: Empowering Citizen Engagement and Governance Transparency**
 
+[![Watch the video](https://img.youtube.com/vi/bimvj6Npp4s/0.jpg)](https://www.youtube.com/watch?v=bimvj6Npp4s)
+
+## Overview
+
 ## **Overview**
 
 Barazer is a citizen engagement platform that fosters transparency, accountability, and enhanced service delivery by bridging the gap between governments and citizens. Using cutting-edge technologies like machine learning, natural language processing, and data visualization, Barazer provides tools to monitor governance, enable feedback, and deliver personalized recommendations.
@@ -11,9 +15,8 @@ Barazer is a citizen engagement platform that fosters transparency, accountabili
 This repository includes all the resources needed to deploy, maintain, and extend Barazer's platform.
 
 ---
-<div>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bimvj6Npp4s?si=vecrByspo3_DYaG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+
+
 ## **Features**
 
 ### **Core Functionalities**
